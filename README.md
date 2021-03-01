@@ -1,3 +1,3 @@
 # SDVJavaScript
-Work done in class
+## week one
 ## week two
