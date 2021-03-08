@@ -19,5 +19,6 @@
   "homepage": "https://github.com/milesfitton/SDVJavaScript#readme",
   "dependencies": {
     "markdown": "^0.5.0"
-  }
+  },
+  "devDependencies": {}
 }
