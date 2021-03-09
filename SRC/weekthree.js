@@ -13,7 +13,7 @@ const lastName = 'Fitton'
 console.log(lastName)
 let fullName = firstName + ' ' + lastName //ES5
 console.log(fullName)
-fullName = 'My full name is ${firstName} ${lastName}' //ES6
+fullName = `My full name is ${firstName} ${lastName}` //ES6
 console.log(fullName)
 
 
