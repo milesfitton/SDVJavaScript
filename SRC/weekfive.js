@@ -99,7 +99,15 @@ let x =5
 let y = 5<=x ? 5+5: x
 console.log (y)
 
-let isStudent = true
+//let isStudent = true
+let isSenior = true
 
-let price = isStudent ? 8: 12
-console.log (price);
+//let price = isStudent ? 8 : isSenior ? 6 : 10
+
+let isStudent = true;
+let price = 12;isStudent ? (
+  price = 8,
+  alert('Please check for student ID')
+) : (
+  alert('Enjoy the movie')
+);
